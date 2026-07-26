@@ -10,7 +10,7 @@
 🚀 &nbsp;I build system automation tools and machine learning pipelines, and I am actively seeking software engineering internships.\
 💬 &nbsp;Feel free to reach out to me for collaborations, open-source contributions, or just some interesting discussions.\
 ✉️ &nbsp;You can shoot me an email at [anshulkanodia3560@gmail.com](mailto:anshulkanodia3560@gmail.com)! I'll try to respond as soon as I can.\
-📄 &nbsp;Please check out my [Personal Portfolio](https://anshulkanodia.vercel.app/) and [Résumé](https://anshulkanodia.vercel.app/resume) for more details.
+📄 &nbsp;Please check out my [Personal Portfolio](https://anshulkanodia.vercel.app/) and [Resume](https://anshulkanodia.vercel.app/resume) for more details.
 
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
