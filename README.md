@@ -8,7 +8,7 @@
 🎓 &nbsp;I'm currently pursuing a B.Tech in Computer Science and Engineering at VIT Bhopal University (Class of 2028).\
 🌱 &nbsp;I'm focused on expanding my understanding of Advanced Data Structures, Backend Architectures, and Context-Aware NLP models.\
 🚀 &nbsp;I build system automation tools and machine learning pipelines, and I am actively seeking software engineering internships.\
-💬 &nbsp;Feel free to reach out to me for collaborations, open-source contributions, or just some interesting discussions.\
+💬 &nbsp;Feel free to reach out to me for collaborations, open-source contributions, or just some interesting discussions. \
 ✉️ &nbsp;You can shoot me an email at [anshulkanodia3560@gmail.com](mailto:anshulkanodia3560@gmail.com)! I'll try to respond as soon as I can.\
 📄 &nbsp;Please check out my [Personal Portfolio](https://anshulkanodia.vercel.app/) and [Resume](https://anshulkanodia.vercel.app/resume) for more details.
 
