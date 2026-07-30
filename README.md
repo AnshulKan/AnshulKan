@@ -53,7 +53,7 @@
 <p align="center">
   <a href="https://github.com/AnshulKanodia">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnshulKanodia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" alt="Anshul's GitHub Stats" width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshulKanodia&theme=tokyonight&hide_border=true&background=0d1117" alt="Anshul's GitHub Streak" width="48%" />
+    <img src="https://streak-stats.vercel.app/?user=AnshulKanodia&theme=tokyonight&hide_border=true&background=0d1117" alt="Anshul's GitHub Streak" width="48%" />
   </a>
 </p>
 
